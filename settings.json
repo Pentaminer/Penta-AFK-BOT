@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Afkbot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Penta-SMP-2.aternos.me",
-    "port": 35860,
+    "port": 19132,
     "version": "1.21.1"
   },
   "position": {
